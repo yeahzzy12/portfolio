@@ -13,10 +13,10 @@ export default function Projects() {
           transition={{ duration: 0.5 }}
           className="mb-4"
         >
-          <p className="font-mono text-cyan-400 text-sm mb-2 tracking-widest uppercase">
+          <p className="font-mono text-cyan-600 dark:text-cyan-400 text-sm mb-2 tracking-widest uppercase">
             Projects
           </p>
-          <h2 className="text-3xl md:text-4xl font-bold text-white">주요 프로젝트</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-slate-900 dark:text-white">주요 프로젝트</h2>
         </motion.div>
 
         <div>
